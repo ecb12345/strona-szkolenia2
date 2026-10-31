@@ -103,7 +103,7 @@ export default function Szkolenia() {
         {/* Hero Section */}
         <section className="relative pt-0 pb-0 overflow-hidden reveal">
             <div className="w-full relative z-10">
-                <img src="/images/hero_szkolenia.png" alt="Szkolenia dla firm - Komunikacja to sztuka, naucz się jej" className="w-full h-auto object-cover max-h-[90vh]" />
+                <img src="/images/hero_szkolenia_v2.png" alt="Szkolenia dla firm - Komunikacja to sztuka, naucz się jej" className="w-full h-auto object-cover max-h-[90vh]" />
             </div>
         </section>
 
